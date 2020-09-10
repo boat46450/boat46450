@@ -4,9 +4,9 @@
 
 ---
 
-<div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api?username=boat46450&count_private=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boat46450&layout=compact" />
+<div style="display: flex;">
+    <img style="display: flex; height: 150px; mergin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=boat46450&count_private=true&include_all_commits=true" />
+    <img style="display: flex; height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boat46450&layout=compact" />
 <div>
 
 <!--
