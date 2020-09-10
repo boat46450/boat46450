@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=boat46450)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **boat46450/boat46450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
